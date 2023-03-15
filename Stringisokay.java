@@ -1,3 +1,4 @@
+//checking if the String is palindrome
 public class Main{
   String str="knock";
     
